@@ -2,8 +2,6 @@
 
 Welcome to my DevShowcase Portfolio! This repository showcases my projects, technical skills, and a brief about me.
 
-![Profile Image](src/assets/profile.jpeg)
-
 ## Latha H Natesh
 
 This portfolio was developed using Visual Studio Code, React.js, and Bootstrap. It serves as a comprehensive showcase of my work, demonstrating my skills in front-end development and responsive design.
